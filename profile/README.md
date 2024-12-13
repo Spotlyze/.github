@@ -6,7 +6,7 @@
 
 ## SUMMARY
 
-Our project aims to create a facial skin condition detection app, especially regarding skin problems such as inamed acne, mild acne, or normal skin. Many people have diculty in recognizing their skin condition and choosing appropriate skincare products, which can risk using inappropriate ingredients and worsening skin conditions. This can lead to frustration, wasted money, and prolonged skin problems.
+Our project aims to create a facial skin condition detection app, especially regarding skin problems such as acne, dark circle, wrinkle, and normal. Many people have diculty in recognizing their skin condition and choosing appropriate skincare products, which can risk using inappropriate ingredients and worsening skin conditions. This can lead to frustration, wasted money, and prolonged skin problems.
 
 Our solution addresses this problem by utilizing Machine Learning to analyze facial skin
 conditions from images and provide skincare ingredient recommendations that match the
